@@ -1,0 +1,60 @@
+body {
+	background-color: #d9d9d9; 
+}
+
+#header-nav {
+	background-color: #2F4E78;
+	border-radius: 0;
+	border: 0;
+}
+
+#brandname {
+	padding-bottom: 10px;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 { 
+  color: white;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.glyphicon {
+	padding-right: 5px;
+}
+
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+  font-size: 1.5em;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 0.8em;
+}
+
+#nav-list {
+  background-color: #B0C4DE;
+}
+
+#menu-title {
+	font-size: 2.5em;
+	font-family: 'David Libre', serif;
+	font-weight: bold;
+}
+
+#chicken {
+	background-color: #F0F0F0;
+}
